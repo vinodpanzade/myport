@@ -1,12 +1,18 @@
+<div align="center">
+  <img height="400" src="https://cdn.prod.website-files.com/659ad3aeaa819205043961bd/65e1e5fb852c806c77a74e62_veebiarendus.jpg"  />
+</div>
+
+###
+
 <h1 align="left">Hi 👋, I'm Vinod Panzade</h1>
 
 ###
 
-<p align="left">A passionate frontend developer from India</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Hi! I'm Vinod Panzaade, a passionate web developer skilled in the MERN stack and frontend technologies."</p>
 
 ###
 
@@ -74,12 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
